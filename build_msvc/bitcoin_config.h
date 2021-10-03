@@ -181,10 +181,10 @@
 #define PACKAGE_BUGREPORT "https://github.com/bitcoin/bitcoin/issues"
 
 /* Define to the full name of this package. */
-#define PACKAGE_NAME "Bitcoin Core"
+#define PACKAGE_NAME "Petrodolina Core"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "Bitcoin Core 22.99.0"
+#define PACKAGE_STRING "Petrodolina Core 22.99.0"
 
 /* Define to the home page for this package. */
 #define PACKAGE_URL "https://bitcoincore.org/"
